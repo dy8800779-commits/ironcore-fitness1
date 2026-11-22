@@ -65,7 +65,7 @@ nexora-technologies/
 
 ## Live Demo
 
-Add your deployed Vercel website link here.
+https://ironcore-fitness1.vercel.app/
 
 ## Author
 
